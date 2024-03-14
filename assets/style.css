@@ -2,6 +2,8 @@
     display:flex;
     justify-content:center;
     background-color:black;
+
+    padding:45px;
     
     color:White;
     font-family: 'Courier New', sans-serif, monospace;
@@ -9,19 +11,23 @@
     text-decoration:underline;
     text-transform:capitalize;
     
-    border-radius: 10px;
+    box-shadow: 0px 1px 0px 3px lightcoral;
+    border-radius: 10px 10px 0px 0px;
 }
 
 .nav{
     display:flex;
     justify-content:right;
-    padding:7px;
-    background-color:bisque;
+    padding:3px;
+    margin:2px 0px 0px 0px;
+    background-color: bisque;
+    
     color:White;
     font-family: 'Courier New', sans-serif, monospace;
     font-size: 23px;
-    box-shadow:inset 4px 0px gold, 4px 4px gold;
-    border-radius:10px;
+    
+    box-shadow: 0px 1px 0px 3px lightcoral;
+    border-radius:0px 0px 10px 10px;
 }
 
 ul{
@@ -30,15 +36,34 @@ ul{
 }
 
 li{
-    margin-left:100px;
+    margin:0px 35px 0px 100px;
 }
 
-.substance{
+ .aboutme{
+    background-color: dimgrey;
+    color:white;
+    font-size: 25px;
 
+    width:1600px;
+    height:150px;
+ }
+
+ .substance{
+    width:750px;
+    height:450px;
+    display:flex;
+    float:center;
 }
 
-.challenge-1_snippet.img{
+.buttonborder{
+    border:none;
+    background:none;
+}
 
+#image{
+    height:60%;
+    width:60%;
+    float:left;
 }
 
 .image-holder{
