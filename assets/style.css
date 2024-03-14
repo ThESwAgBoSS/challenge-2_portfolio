@@ -1,0 +1,21 @@
+.background{
+    display:flex;
+    justify-content:center;
+    background-color:black;
+    
+    color:White;
+    font-family: 'Courier New', sans-serif, monospace;
+    font-size:38px;
+    text-decoration:underline;
+    text-transform:capitalize;
+    
+    border-radius: 10px;
+}
+
+.nav{
+    display:flex;
+    justify-content:center;
+    background-color:black;
+    color:White;
+    font-family: 'Courier New', sans-serif, monospace;
+}
