@@ -15,11 +15,13 @@
 .nav{
     display:flex;
     justify-content:right;
-    padding:10px;
+    padding:7px;
     background-color:bisque;
     color:White;
     font-family: 'Courier New', sans-serif, monospace;
     font-size: 23px;
+    box-shadow:inset 4px 0px gold, 4px 4px gold;
+    border-radius:10px;
 }
 
 ul{
@@ -30,3 +32,28 @@ ul{
 li{
     margin-left:100px;
 }
+
+.substance{
+
+}
+
+.challenge-1_snippet.img{
+
+}
+
+.image-holder{
+
+}
+
+.image-holder{
+
+}
+
+.image-holder{
+
+}
+
+.image-holder{
+
+}
+
