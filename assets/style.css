@@ -14,8 +14,19 @@
 
 .nav{
     display:flex;
-    justify-content:center;
-    background-color:black;
+    justify-content:right;
+    padding:10px;
+    background-color:bisque;
     color:White;
     font-family: 'Courier New', sans-serif, monospace;
+    font-size: 23px;
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+}
+
+li{
+    margin-left:100px;
 }
