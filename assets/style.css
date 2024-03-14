@@ -61,24 +61,24 @@ li{
 }
 
 #image{
-    height:60%;
-    width:60%;
+    height:50%;
+    width:63%;
     float:left;
 }
 
-.image-holder{
-
+.images{
+    height:80%;
+    width:70%;
+    display:flex;
+    float:left;
+}
+.right-float{
+    float:right;
 }
 
-.image-holder{
+.contact{
+    background-color: bisque;
+    color:black;
 
+    display:inline-block;
 }
-
-.image-holder{
-
-}
-
-.image-holder{
-
-}
-
