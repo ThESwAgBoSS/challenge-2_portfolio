@@ -82,3 +82,12 @@ li{
 
     display:inline-block;
 }
+
+#contact-header{
+    font-family:'Courier New', sans-serif, monospace;
+
+}
+
+@media screen (max-width:764px){
+    display: inline;
+}
